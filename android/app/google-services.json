@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "749162630754",
+    "firebase_url": "https://baka-49efd.firebaseio.com",
+    "project_id": "baka-49efd",
+    "storage_bucket": "baka-49efd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749162630754:android:46a2b75daecd8102b24b3b",
+        "android_client_info": {
+          "package_name": "com.yousif.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749162630754-u7nipockueuje35tcj3bkemjt8orck4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_dhIhUEcTY5yMRDuMs6w0_DdGESVGHJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749162630754-u7nipockueuje35tcj3bkemjt8orck4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
